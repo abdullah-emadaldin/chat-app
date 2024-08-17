@@ -1,0 +1,12 @@
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\bin\Release\net8.0\ReposatoryPatternWithUOW.Core.deps.json
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\bin\Release\net8.0\ReposatoryPatternWithUOW.Core.dll
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\bin\Release\net8.0\ReposatoryPatternWithUOW.Core.pdb
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\ReposatoryPatternWithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\ReposatoryPatternWithUOW.Core.AssemblyInfoInputs.cache
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\ReposatoryPatternWithUOW.Core.AssemblyInfo.cs
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\ReposatoryPatternWithUOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\ReposatoryPatternWithUOW.Core.dll
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\refint\ReposatoryPatternWithUOW.Core.dll
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\ReposatoryPatternWithUOW.Core.pdb
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\ref\ReposatoryPatternWithUOW.Core.dll
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.Core\obj\Release\net8.0\ReposatoryPatternWithUOW.Core.csproj.AssemblyReference.cache

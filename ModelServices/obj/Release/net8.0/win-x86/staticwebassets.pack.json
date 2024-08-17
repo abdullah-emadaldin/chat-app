@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tata\\Desktop\\chat app\\AuthenticationService-main\\ModelServices\\wwwroot\\Users\\1c3e133a-6568-4cef-b6b4-95f5d536b3d5.png",
+      "PackagePath": "staticwebassets\\Users\\1c3e133a-6568-4cef-b6b4-95f5d536b3d5.png"
+    },
+    {
+      "Id": "C:\\Users\\tata\\Desktop\\chat app\\AuthenticationService-main\\ModelServices\\wwwroot\\Users\\438ebcfd-4d57-4ea5-9e02-c491aa9a0a6a.png",
+      "PackagePath": "staticwebassets\\Users\\438ebcfd-4d57-4ea5-9e02-c491aa9a0a6a.png"
+    },
+    {
+      "Id": "C:\\Users\\tata\\Desktop\\chat app\\AuthenticationService-main\\ModelServices\\wwwroot\\Users\\e503cada-8a11-4813-bdaa-25b7731d9ee2.png",
+      "PackagePath": "staticwebassets\\Users\\e503cada-8a11-4813-bdaa-25b7731d9ee2.png"
+    },
+    {
+      "Id": "C:\\Users\\tata\\Desktop\\chat app\\AuthenticationService-main\\ModelServices\\wwwroot\\Users\\f05f7c87-b172-424c-8b46-cb4dfbc4365d.png",
+      "PackagePath": "staticwebassets\\Users\\f05f7c87-b172-424c-8b46-cb4dfbc4365d.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.ModelServices.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.ModelServices.props",
+      "PackagePath": "build\\ModelServices.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.ModelServices.props",
+      "PackagePath": "buildMultiTargeting\\ModelServices.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.ModelServices.props",
+      "PackagePath": "buildTransitive\\ModelServices.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

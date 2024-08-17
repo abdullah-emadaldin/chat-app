@@ -1,0 +1,17 @@
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\bin\Release\net8.0\ReposatoryPatternWithUOW.EF.deps.json
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\bin\Release\net8.0\ReposatoryPatternWithUOW.EF.runtimeconfig.json
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\bin\Release\net8.0\ReposatoryPatternWithUOW.EF.dll
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\bin\Release\net8.0\ReposatoryPatternWithUOW.EF.pdb
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\bin\Release\net8.0\ReposatoryPatternWithUOW.Core.dll
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\bin\Release\net8.0\ReposatoryPatternWithUOW.Core.pdb
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.AssemblyInfo.cs
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.csproj.CopyComplete
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.dll
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\refint\ReposatoryPatternWithUOW.EF.dll
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.pdb
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ReposatoryPatternWithUOW.EF.genruntimeconfig.cache
+C:\Users\tata\Desktop\chat app\AuthenticationService-main\ReposatoryPatternWithUOW.EF\obj\Release\net8.0\ref\ReposatoryPatternWithUOW.EF.dll
